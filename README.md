@@ -1,5 +1,7 @@
 # hello-world
-Mi primer repositorio
+My first repo 
 
-El comienzo de la gran aventura que va a ser mi vida, no puedo esperar para dedicarme de forma profesional al despliegue de software,
-Administrador de sistemas, ingeniero de infraestructura, you call it, I do it, IAC babe.
+The start of a great adventure that is going to be my future working life.
+I cant wait to work in a serious enviroment related to software deployment, system administration or IT, IaC or whatever, you call it, I do it.
+
+
